@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    color: black;
+} 
+div{
+    text-align: center;
+}
+img{
+    block-size: 500px;
+}
+
